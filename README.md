@@ -1,6 +1,7 @@
-<h1 align="center">Привет, Я <a href="https://daniilshat.ru/" target="_blank">Юлия</a> 
+<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Юлия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий Аналитик данных из Ростова-на-Дону</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающий+Аналитик+данных+из+Ростова-на-Дону)](https://git.io/typing-svg)
 
 Портфолио: Аналитик данных
 
