@@ -1,11 +1,11 @@
 <h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Юлия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий Аналитик данных из Ростова-на-Дону</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающий+Аналитик+данных+из+Ростова-на-Дону)](https://git.io/typing-svg)
 
-Портфолио: Аналитик данных
+<h2>Портфолио: Аналитик данных<h2>
 
 Обо мне
+<img src="#A100FF" alt="альтернативный текст">
 Привет! Меня зовут Юлия, я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 Навыки и технологии
