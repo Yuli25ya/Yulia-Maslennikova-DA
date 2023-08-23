@@ -1,8 +1,8 @@
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Юлия</a> 
+<h1 align="center">Привет, я Юлия
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий Аналитик данных из Ростова-на-Дону</h3>
 
-<h2>Портфолио: Аналитик данных<h2>
+<h2>Портфолио: Аналитик данных</h2>
 
 Обо мне
 <img src="#A100FF" alt="альтернативный текст">
